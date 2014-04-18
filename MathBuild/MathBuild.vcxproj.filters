@@ -29,5 +29,11 @@
     <ClInclude Include="..\math\type.h">
       <Filter>base</Filter>
     </ClInclude>
+    <ClInclude Include="..\math\matrix.h">
+      <Filter>base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\math\operation.h">
+      <Filter>base</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
